@@ -20,3 +20,33 @@
     justify-content: center;
     align-content:center;
 }
+
+img {
+    width:200px;
+    height:200px;
+    text-align:center;
+}
+
+#title {
+    text-align: center; 
+}
+
+#songCont {
+    margin:10px;
+    border:3px solid black;
+}
+
+#songName {
+    text-align: center;
+    font-weight:600;
+    font-size:24px;
+}
+
+#auth {
+    text-align: center;
+    font-style: italic;
+}
+
+#genre {
+    text-align: center;
+}
